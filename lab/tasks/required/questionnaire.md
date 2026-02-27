@@ -35,7 +35,7 @@ TODO questions about what their specific request is
 
 1. HTTP method: PUT
 2. Status code (updated successfully): 200
-
+ 
 ## Authentication
 
 1. What happens when you call an endpoint without the API key? (status code): 403
